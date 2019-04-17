@@ -1,0 +1,22 @@
+{
+  "name": "bitwise-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkarnez/bitwise-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkarnez/bitwise-playground/issues"
+  },
+  "homepage": "https://github.com/dirkarnez/bitwise-playground#readme",
+  "devDependencies": {
+    "mocha": "^6.1.3"
+  }
+}
